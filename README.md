@@ -1,4 +1,4 @@
-# General Directed Weighted Graph
+# General Directed Graph Data Structure
 
 0. Change Log
 1. Tasks
